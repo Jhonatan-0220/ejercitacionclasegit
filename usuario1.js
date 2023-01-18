@@ -1,3 +1,3 @@
 console.log("Subiendo nuevamente los archivos!");
-console.log("Solucionando conflicto - Nico");
-console.log("Solucionando conflicto2 - Nico");
+console.log("Solucionando otro conflicto");
+console.log("Nico lo solucionas");
